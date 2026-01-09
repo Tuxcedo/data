@@ -1,0 +1,9 @@
+{
+	"name": "datafacenn",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "88e33d89-4aea-4689-8891-282a053ea044",
+		"tenantId": "1790fca5-8bef-4e4c-90a0-c7decda804e3"
+	}
+}
