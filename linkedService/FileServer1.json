@@ -5,9 +5,9 @@
 		"annotations": [],
 		"type": "FileServer",
 		"typeProperties": {
-			"host": "A:\\data",
-			"userId": "Tuxcedo",
-			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiIzZDQ3NzBiNi1kNzc5LTQ3M2QtYmI4NS0xOTQ5ODMzMDNmYTciLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
+			"host": "C:\\Users\\Tuxce\\Desktop\\Azure_pro",
+			"userId": "Tuxcedo1406@outlook.com",
+			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiI2YzNjOTYxYS1mZDkxLTQ1N2YtOTA0ZS02YjY1Zjc3YTA2MzQiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
 		},
 		"connectVia": {
 			"referenceName": "integrationR12",
