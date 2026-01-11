@@ -1,0 +1,9 @@
+{
+	"name": "datedatafactory",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "fbd19608-a77f-468a-815c-2a3b087b9397",
+		"tenantId": "1790fca5-8bef-4e4c-90a0-c7decda804e3"
+	}
+}
